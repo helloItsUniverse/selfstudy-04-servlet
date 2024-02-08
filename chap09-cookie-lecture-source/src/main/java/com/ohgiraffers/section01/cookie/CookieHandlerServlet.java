@@ -20,7 +20,7 @@ public class CookieHandlerServlet extends HttpServlet {
         System.out.println("성: " + lastName);
 
         /* 설명.
-         *  쿠키(쿨라이언트의 브라우저에 저장)fmf todtjdgkrh tkdydgksms qkdqjq
+         *  쿠키(쿨라이언트의 브라우저에 저장)를 생성하고 사용하는 방법
          *   1. 쿠키 인스턴스를 생성한다.
          *   2. 해당 쿠키의 만료시간을 설정한다.
          *   3. 응답 헤더에 쿠키를 담는다.
